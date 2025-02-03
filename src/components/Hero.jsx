@@ -1,5 +1,7 @@
 import { Container } from "./Container";
 import { Button } from "./Button";
+import { uiInterface } from "../assets";
+import { Grid } from "./theme/Hero";
 
 export const Hero = () => {
   return (
@@ -21,7 +23,9 @@ export const Hero = () => {
             Pricing and plans
           </Button>
         </div>
+        <img src={uiInterface} alt="Ui Interface illustration" />
       </Container>
+      <Grid />
     </div>
   );
 };
