@@ -8,16 +8,25 @@ export const Button = ({ children, theme, className, href }) => {
       : "";
 
   const renderButton = () => {
-    <Button
-      className={`button py-3 px-3 lg:py-4 lg:px-6 rounded-lg ${themeClasses} ${baseClasse} ${className}`}
-    >
-      {children}
-    </Button>;
+    return (
+      <button
+        className={`button py-3 px-3 lg:py-4 lg:px-6 rounded-lg ${themeClasses} ${baseClasse} ${className}`}
+      >
+        {children}
+      </button>
+    );
   };
 
   const renderLink = () => {
-    <a href={href}>{children}</a>;
+    return (
+      <a
+        href={href}
+        className={`button py-3 px-3 lg:py-4 lg:px-6 rounded-lg ${themeClasses} ${baseClasse} ${className}`}
+      >
+        {children}
+      </a>
+    );
   };
 
-  return <div>Button</div>;
+  return href ? renderLink() : renderButton();
 };
