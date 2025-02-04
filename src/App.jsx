@@ -5,6 +5,7 @@ import { Header } from "./components/Header";
 import { Hero } from "./components/Hero";
 import { BulletPoints } from "./components/BulletPoints";
 import { Pricing } from "./components/Pricing";
+import { Footer } from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <BulletPoints />
       <Pricing />
       <CallToAction minify />
+      <Footer />
     </>
   );
 }
