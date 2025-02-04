@@ -12,7 +12,7 @@ export const CallToAction = ({ minify = false }) => {
           ${
             !minify
               ? "flex flex-col items-center"
-              : "flex flex-col items-center justify-between lg:flex lg:items-center"
+              : "flex flex-col items-center justify-between lg:flex lg:flex-row lg:items-center"
           }
           `}
         >
