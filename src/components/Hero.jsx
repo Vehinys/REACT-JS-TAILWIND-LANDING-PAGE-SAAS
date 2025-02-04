@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <div className="relative">
       <Container className="relative z-10 pt-10 lg:py-16 space-y-16">
-        <div className="text-center max-w-2xl mx-auto px-16 lg:px-0 space-y-7">
+        <div className="text-center max-w-2xl mx-auto px-16 lg:px-0 space-y-7 flex flex-col items-center">
           <h1 className="hero">
             Build{" "}
             <span className="bg-clip-text text-transparent bg-gradient-to-b from-p-3 to-p-2">
