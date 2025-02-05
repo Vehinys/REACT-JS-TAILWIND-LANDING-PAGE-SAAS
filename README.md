@@ -73,6 +73,12 @@ Voici des illustrations adaptée aux petits écrans :
 - Implémenter un système d'authentification pour accéder aux fonctionnalités premium.
 - Intégrer une gestion dynamique des prix avec un back-end pour personnaliser les plans en fonction des utilisateurs.
 
+## 🔧 Prérequis
+
+Avant de démarrer le projet en local, assurez-vous d'avoir installé les prérequis suivants :
+- **Node.js** (version 14 ou supérieure)
+- **npm** (Node Package Manager) ou **Yarn**
+
 ---
 
 Ce projet a été réalisé par **[Remote Monkey](https://www.youtube.com/watch?v=1oGo9QYpAMU)**.
