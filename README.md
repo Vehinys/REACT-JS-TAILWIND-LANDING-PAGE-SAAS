@@ -25,6 +25,7 @@ project : Landing page saas
 │   │   ├── Pricing        /* Composant pour afficher les plans tarifaires */
 │   │   └── Features       /* Composant pour afficher les fonctionnalités */
 │   ├── constants          /* Contient les constantes globales utilisées dans l'application */
+```
 
 ## 🎨 Fonctionnalités
 - **Branding** : Affiche les logos des marques partenaires.
