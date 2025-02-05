@@ -49,8 +49,6 @@ Voici des illustrations adaptée aux grands écrans :
   <img src="src/assets/4.png" alt="Web Illustration 2" style="width: 48%;"/>
 </div>
 
-![](src/assets/4.png)
-
 ### Illustration pour la version Mobile
 Voici des illustrations adaptée aux petits écrans :
 
