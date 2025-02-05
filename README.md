@@ -79,7 +79,8 @@ Voici des illustrations adaptée aux petits écrans :
 ## 🔧 Prérequis
 
 Avant de démarrer le projet en local, assurez-vous d'avoir installé les prérequis suivants :
-- **Node.js** (version 14 ou supérieure) : Vous pouvez télécharger et installer Node.js ici : [https://nodejs.org/](https://nodejs.org/)
+- **Node.js** (version 14 ou supérieure)
+- Vous pouvez télécharger et installer **Node.js** ici : [https://nodejs.org/](https://nodejs.org/)
 - **npm** (Node Package Manager) ou **Yarn**
 
 ---
