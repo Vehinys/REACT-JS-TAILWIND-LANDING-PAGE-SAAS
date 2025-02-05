@@ -65,7 +65,7 @@ Voici des illustrations adaptée aux grands écrans :
 ### Illustration pour la version Mobile
 Voici des illustrations adaptée aux petits écrans :
 
-![Illustration Mobile](./assets/Mobile1.png)
+(./assets/Mobile1.png)
 
 ## 📌 Améliorations possibles
 - Ajouter un système de gestion de l'état global avec Redux ou Context API.
