@@ -54,11 +54,12 @@ Voici des illustrations adaptée aux grands écrans :
 Voici des illustrations adaptée aux petits écrans :
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="src/assets/Mobile1.png" alt="Mobile Illustration 1" style="width: 23%; height: auto;"/>
-  <img src="src/assets/Mobile2.png" alt="Mobile Illustration 2" style="width: 23%; height: auto;"/>
-  <img src="src/assets/Mobile3.png" alt="Mobile Illustration 3" style="width: 23%; height: auto;"/>
-  <img src="src/assets/Mobile5.png" alt="Mobile Illustration 4" style="width: 23%; height: auto;"/>
+  <img src="src/assets/Mobile1.png" alt="Mobile Illustration 1" style="height: 150px; width: auto;"/>
+  <img src="src/assets/Mobile2.png" alt="Mobile Illustration 2" style="height: 150px; width: auto;"/>
+  <img src="src/assets/Mobile3.png" alt="Mobile Illustration 3" style="height: 150px; width: auto;"/>
+  <img src="src/assets/Mobile5.png" alt="Mobile Illustration 4" style="height: 150px; width: auto;"/>
 </div>
+
 
 ## 📌 Améliorations possibles
 - Ajouter un système de gestion de l'état global avec Redux ou Context API.
