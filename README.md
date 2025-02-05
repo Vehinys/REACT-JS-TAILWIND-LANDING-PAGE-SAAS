@@ -55,6 +55,18 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 - **Tailwind CSS** : Utilisé pour les styles réactifs et personnalisés.
 - **JavaScript** : Pour la gestion de la logique des composants.
 
+## 📸 Illustrations
+
+### Illustration pour la version Web
+Voici l'illustration adaptée aux grands écrans :
+
+![Illustration Web](./assets/illustration-web.jpg)
+
+### Illustration pour la version Mobile
+Voici l'illustration adaptée aux petits écrans :
+
+![Illustration Mobile](./assets/illustration-mobile.jpg)
+
 ## 📌 Améliorations possibles
 - Ajouter un système de gestion de l'état global avec Redux ou Context API.
 - Ajouter des animations interactives pour améliorer l'expérience utilisateur.
