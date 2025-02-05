@@ -6,11 +6,11 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 
 ### Composants principaux :
 - **Container** : Conteneur générique pour organiser et centrer les éléments.
-- 
+
 - **Branding** : Affiche des logos de marques avec une mise en page responsive.
-- 
+
 - **BulletPoints** : Liste de points importants, chaque point ayant une image et une description, avec des mises en page dynamiques.
-- 
+
 - **Button** : Boutons stylisés permettant de naviguer ou de soumettre des actions avec des thèmes différents (primaire et secondaire).
 
 - **CallToAction** : Section engageant l'utilisateur à démarrer un essai gratuit avec un bouton de call-to-action.
