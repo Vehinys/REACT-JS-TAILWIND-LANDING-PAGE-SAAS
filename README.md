@@ -65,7 +65,7 @@ Voici des illustrations adaptée aux grands écrans :
 ### Illustration pour la version Mobile
 Voici des illustrations adaptée aux petits écrans :
 
-![Illustration Mobile](./assets/mobile1.jng)
+![Illustration Mobile](./assets/Mobile1.png)
 
 ## 📌 Améliorations possibles
 - Ajouter un système de gestion de l'état global avec Redux ou Context API.
@@ -75,4 +75,4 @@ Voici des illustrations adaptée aux petits écrans :
 
 ---
 
-Ce projet a été réalisé par **Remote Monkey**. Découvrez plus de contenus sur leur chaîne YouTube : [Remote Monkey YouTube Channel](https://www.youtube.com/watch?v=1oGo9QYpAMU)
+Ce projet a été réalisé par **Remote Monkey** : La chaîne YouTube : [Remote Monkey YouTube Channel](https://www.youtube.com/watch?v=1oGo9QYpAMU)
