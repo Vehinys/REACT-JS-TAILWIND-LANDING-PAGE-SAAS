@@ -58,12 +58,12 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 ## 📸 Illustrations
 
 ### Illustration pour la version Web
-Voici l'illustration adaptée aux grands écrans :
+Voici des illustrations adaptée aux grands écrans :
 
 ![Illustration Web](./assets/illustration-web.jpg)
 
 ### Illustration pour la version Mobile
-Voici l'illustration adaptée aux petits écrans :
+Voici des illustrations adaptée aux petits écrans :
 
 ![Illustration Mobile](./assets/mobile1.jng)
 
