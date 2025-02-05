@@ -1,67 +1,66 @@
-# Remote Monkey Kit
+# 📦 Foxart
 
-Ce kit inclut des ressources et une architecture prête à l'emploi.
-Ce projet est conçu pour être utilisé comme base pour suivre mes tutoriels vidéo sur YouTube.
+Ce projet est une application React avec une interface utilisateur dynamique, comprenant des sections telles que des marques, des points clés, des boutons stylisés, des appels à l'action, des fonctionnalités, ainsi qu'un pied de page. L'application est entièrement responsive grâce à Tailwind CSS et propose une gestion fluide du rendu des composants.
 
-## Prérequis
+## 📁 Structure du Projet
 
-Pour utiliser ce projet, vous avez besoin de :
+### Composants principaux :
+- **Container** : Conteneur générique pour organiser et centrer les éléments.
+  - Fichier : `src/components/Container.js`
 
-- **Node.js** (version recommandée : voir fichier .nvmrc)
-- [**npm**](https://www.npmjs.com/) (ou **yarn** si vous préférez)
-- **Optionnel** : [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) pour gérer facilement la version de Node.js
+- **Branding** : Affiche des logos de marques avec une mise en page responsive.
+  - Fichier : `src/components/Branding.js`
 
-## Installation
+- **BulletPoints** : Liste de points importants, chaque point ayant une image et une description, avec des mises en page dynamiques.
+  - Fichier : `src/components/BulletPoints.js`
 
-### Option 1 : Utiliser NVM pour verrouiller la version de Node.js (facultatif)
+- **Button** : Boutons stylisés permettant de naviguer ou de soumettre des actions avec des thèmes différents (primaire et secondaire).
+  - Fichier : `src/components/Button.js`
 
-Si vous avez installé NVM, et si vous rencontrer des problèmes particuliers lors de l'installation vous pouvez utiliser la version exacte de Node.js recommandée pour ce projet :
+- **CallToAction** : Section engageant l'utilisateur à démarrer un essai gratuit avec un bouton de call-to-action.
+  - Fichier : `src/components/CallToAction.js`
 
-1. Ouvrez un terminal dans le répertoire du projet.
-2. Exécutez la commande suivante pour basculer vers la version de Node spécifiée dans le fichier `.nvmrc` :
+- **Footer** : Pied de page avec des liens sociaux et des informations sur la politique de confidentialité et les conditions d'utilisation.
+  - Fichier : `src/components/Footer.js`
 
-**nvm use**
+- **Headings** : Gère l'affichage des titres principaux et secondaires.
+  - Fichier : `src/components/Headings.js`
 
-Si vous n'avez pas encore installé la version spécifiée, NVM vous proposera de la télécharger et de l'utiliser automatiquement.
+- **Header** : En-tête de la page avec un logo et un bouton de connexion.
+  - Fichier : `src/components/Header.js`
 
-### Option 2 : Sans NVM
+- **Hero** : Section principale du site avec un titre percutant et un bouton d'appel à l'action pour accéder aux plans tarifaires.
+  - Fichier : `src/components/Hero.js`
 
-Si vous n'utilisez pas NVM, assurez-vous que vous avez au moins la version **18.18.0** de Node.js. Vous pouvez vérifier la version installée avec cette commande :
+- **Pricing** : Affiche les plans tarifaires avec les fonctionnalités incluses et un bouton pour s'abonner.
+  - Fichier : `src/components/Pricing.js`
 
-**node -v**
+- **Features** : Présente les fonctionnalités de l'application, chacune accompagnée d'une image et d'une description.
+  - Fichier : `src/components/Features.js`
 
-Si nécessaire, téléchargez et installez la bonne version de Node.js depuis [nodejs.org](https://nodejs.org/).
+## 🎨 Fonctionnalités
+- **Branding** : Affiche les logos des marques partenaires.
+- **BulletPoints** : Liste de points importants avec des images et des titres.
+- **Button** : Boutons réactifs pour l'interaction avec l'utilisateur.
+- **CallToAction** : Invitation à démarrer un essai gratuit.
+- **Footer** : Liens sociaux, conditions d'utilisation et informations légales.
+- **Headings** : Affichage dynamique des titres de section.
+- **Header** : En-tête avec logo et option de connexion.
+- **Hero** : Section d'introduction avec un message captivant.
+- **Pricing** : Plans tarifaires avec options d'abonnement.
+- **Features** : Liste des fonctionnalités avec des visuels attractifs.
 
-### Installation des dépendances
+## 🛠️ Technologies utilisées
+- **React** : Framework JavaScript pour construire l'interface utilisateur.
+- **Tailwind CSS** : Utilisé pour les styles réactifs et personnalisés.
+- **JavaScript** : Pour la gestion de la logique des composants.
 
-Une fois la bonne version de Node configurée, installez les dépendances du projet en exécutant la commande suivante :
-
-**npm install**
-
-ou si vous préférez utiliser Yarn :
-
-**yarn install**
-
-## Démarrage du projet
-
-Après l'installation des dépendances, vous pouvez démarrer le serveur de développement en exécutant la commande suivante :
-
-**npm run dev**
-
-ou avec Yarn :
-
-**yarn run dev**
-
-## Ressources et chaîne YouTube
-
-Pour suivre mes tutoriels vidéo et obtenir plus de ressources et d'astuces sur le développement web, n'hésitez pas à visiter et à vous abonner à ma chaîne YouTube :
-
-[**Chaîne YouTube - Remote Monkey**](https://www.youtube.com/channel/UC-es2x_tfihhkcNlaPQiFPg)
-
-## Problèmes et support
-
-Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à poser vos questions dans les commentaires des vidéos sur YouTube.
+## 📌 Améliorations possibles
+- Ajouter un système de gestion de l'état global avec Redux ou Context API.
+- Ajouter des animations interactives pour améliorer l'expérience utilisateur.
+- Implémenter un système d'authentification pour accéder aux fonctionnalités premium.
+- Intégrer une gestion dynamique des prix avec un back-end pour personnaliser les plans en fonction des utilisateurs.
 
 ---
 
-Merci d'utiliser ce kit, et bon codage !
+Ce projet a été réalisé par **Remote Monkey**. Découvrez plus de contenus sur leur chaîne YouTube : [Remote Monkey YouTube Channel](https://www.youtube.com/watch?v=1oGo9QYpAMU)
