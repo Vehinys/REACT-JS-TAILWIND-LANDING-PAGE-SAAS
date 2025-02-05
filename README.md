@@ -40,13 +40,12 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 Voici des illustrations adaptée aux grands écrans :
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="src/assets/1.png" alt="Web Illustration 1" style="width: 48%;"/>
-  <img src="src/assets/2.png" alt="Web Illustration 2" style="width: 48%;"/>
+  <img src="src/assets/1.png" alt="Web Illustration 1" style="width: 25%;"/>
+  <img src="src/assets/2.png" alt="Web Illustration 2" style="width: 25%;"/>
+  <img src="src/assets/3.png" alt="Web Illustration 2" style="width: 25%;"/>
+  <img src="src/assets/4.png" alt="Web Illustration 2" style="width: 25%;"/>
 </div>
 
-![](src/assets/1.png)
-![](src/assets/2.png)
-![](src/assets/3.png)
 ![](src/assets/4.png)
 
 ### Illustration pour la version Mobile
