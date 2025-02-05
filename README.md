@@ -75,4 +75,4 @@ Voici des illustrations adaptée aux petits écrans :
 
 ---
 
-Ce projet a été réalisé par **Remote Monkey** : La chaîne YouTube : [Remote Monkey](https://www.youtube.com/watch?v=1oGo9QYpAMU)
+Ce projet a été réalisé par **[Remote Monkey](https://www.youtube.com/watch?v=1oGo9QYpAMU)**
