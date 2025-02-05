@@ -60,12 +60,12 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 ### Illustration pour la version Web
 Voici des illustrations adaptée aux grands écrans :
 
-![Illustration Web](./assets/1.png)
+![Illustration Web](1.png)
 
 ### Illustration pour la version Mobile
 Voici des illustrations adaptée aux petits écrans :
 
-![Illustration Mobile](./assets/Mobile1.png)
+![Illustration Mobile](Mobile1.png)
 
 ## 📌 Améliorations possibles
 - Ajouter un système de gestion de l'état global avec Redux ou Context API.
