@@ -41,14 +41,15 @@ Voici des illustrations adaptée aux grands écrans :
 
 <div>
   <div style="display: flex; justify-content: space-between;">
-    <img src="src/assets/1.png" alt="Web Illustration 1" style="width: 48%; height: 200px; object-fit: cover;"/>
-    <img src="src/assets/2.png" alt="Web Illustration 2" style="width: 48%; height: 200px; object-fit: cover;"/>
+    <img src="src/assets/Mobile1.png" alt="Mobile Illustration 1" style="width: 48%; height: auto;"/>
+    <img src="src/assets/Mobile2.png" alt="Mobile Illustration 2" style="width: 48%; height: auto;"/>
   </div>
   <div style="display: flex; justify-content: space-between; margin-top: 16px;">
-    <img src="src/assets/3.png" alt="Web Illustration 3" style="width: 48%; height: 200px; object-fit: cover;"/>
-    <img src="src/assets/4.png" alt="Web Illustration 4" style="width: 48%; height: 200px; object-fit: cover;"/>
+    <img src="src/assets/Mobile3.png" alt="Mobile Illustration 3" style="width: 48%; height: auto;"/>
+    <img src="src/assets/Mobile5.png" alt="Mobile Illustration 4" style="width: 48%; height: auto;"/>
   </div>
 </div>
+
 
 
 ### Illustration pour la version Mobile
