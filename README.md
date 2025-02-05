@@ -6,25 +6,15 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 
 ### Composants principaux :
 - **Container** : Conteneur générique pour organiser et centrer les éléments.
-
 - **Branding** : Affiche des logos de marques avec une mise en page responsive.
-
 - **BulletPoints** : Liste de points importants, chaque point ayant une image et une description, avec des mises en page dynamiques.
-
 - **Button** : Boutons stylisés permettant de naviguer ou de soumettre des actions avec des thèmes différents (primaire et secondaire).
-
 - **CallToAction** : Section engageant l'utilisateur à démarrer un essai gratuit avec un bouton de call-to-action.
-
 - **Footer** : Pied de page avec des liens sociaux et des informations sur la politique de confidentialité et les conditions d'utilisation.
-
 - **Headings** : Gère l'affichage des titres principaux et secondaires.
-
 - **Header** : En-tête de la page avec un logo et un bouton de connexion.
-
 - **Hero** : Section principale du site avec un titre percutant et un bouton d'appel à l'action pour accéder aux plans tarifaires.
-
 - **Pricing** : Affiche les plans tarifaires avec les fonctionnalités incluses et un bouton pour s'abonner.
-
 - **Features** : Présente les fonctionnalités de l'application, chacune accompagnée d'une image et d'une description.
 
 ## 🎨 Fonctionnalités
@@ -54,7 +44,7 @@ Voici des illustrations adaptée aux grands écrans :
 ### Illustration pour la version Mobile
 Voici des illustrations adaptée aux petits écrans :
 
-![](Mobile1.png)
+![](./assets/mobile1.png)
 
 ## 📌 Améliorations possibles
 - Ajouter un système de gestion de l'état global avec Redux ou Context API.
