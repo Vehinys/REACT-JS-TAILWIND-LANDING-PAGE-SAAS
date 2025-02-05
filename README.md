@@ -5,6 +5,8 @@ Ce projet est une application React avec une interface utilisateur dynamique, co
 ## 📁 Structure du Projet
 
 ### Composants principaux :
+
+```plaintext
 project : Landing page saas
 ├── node_modules
 ├── public                 /* Dossier pour les fichiers publics et statiques accessibles directement */
